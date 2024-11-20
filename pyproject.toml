@@ -1,0 +1,15 @@
+[project]
+name = "comfyui_face_anon_simple"
+description = "Face Anonymization make simple and easy."
+version = "1.0.0"
+license = "LICENSE"
+dependencies = ["face_alignment"]
+
+[project.urls]
+Repository = "https://github.com/smthemex/ComfyUI_Face_Anon_Simple"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "smthemex"
+DisplayName = "ComfyUI_Face_Anon_Simple"
+Icon = ""
