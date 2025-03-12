@@ -2,7 +2,7 @@
 name = "comfyui_face_anon_simple"
 description = "Face Anonymization make simple and easy."
 version = "1.0.0"
-license = "LICENSE"
+license = { file = "LICENSE" }
 dependencies = ["face_alignment"]
 
 [project.urls]
